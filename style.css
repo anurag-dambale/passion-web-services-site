@@ -1,0 +1,86 @@
+body,html{
+    height: 100%;
+   
+}
+.cont1{
+  font-family: "Montserrat", sans-serif;
+line-height: 1.8;
+font-size: 15px;
+color: #7a7a7a;
+font-weight: 400;
+}
+.bg1{
+background-image: url("hero-min.jpg");
+max-width: 100%;
+height: auto;
+background-repeat: no-repeat;
+background-position: center;
+}
+.cont1{
+    padding-top: 30vh;
+  margin-left: auto;
+  padding-bottom: 10vh;
+display: flex;
+}
+.cont2{
+margin-right: auto;
+margin-left: auto;
+padding-top: 20vh;
+padding-bottom: 5vh;
+ 
+  
+  
+}
+/* .cont3{
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  
+} */
+.cont4{
+ margin-top: 15vh;
+ font-family: "Montserrat", sans-serif;
+line-height: 1.8;
+font-size: 15px;
+/* color: #7a7a7a; */
+font-weight: 400;
+
+ 
+}
+.bg2{
+  
+  background-color:rgb(249, 249, 250);
+  
+}
+.image{
+  margin-top: -5vh;
+}
+.cont5{
+  padding-top: 15vh;
+ 
+ 
+}
+.ann{
+ padding-left: auto;
+  
+}
+.cont6{
+  margin-top:10vh ;
+  padding-top: 10vh;
+  background-color:rgb(249, 249, 250);
+}
+.ad{
+ background:rgba(92, 66, 227, 0.1);
+ font-family: "Montserrat", sans-serif;
+line-height: 1.8;
+font-size: 15px;
+border-radius: 15px;
+}
+.ad:hover{
+  background: rgb(98, 80, 203);
+  top: -2px;
+  text-decoration: none;
+  color: aliceblue;
+  
+  box-shadow: 0 15px 30px -7px rgba(92, 66, 227, 0.4);
+}
+
